@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(234, 234, 234);
+    margin: 0;
+}
+
+.title {
+    width: 200px;
+    height: 150px;
+    font-size: 2em; /* px, em, rem */
+    align-content: center;
+    margin: auto;
+}
+
+#box1 {
+    background-color: rgb(231, 92, 92);
+    width: auto; /* px, %, vh */
+    height: 100px; /* não se pode usar % */
+    color: white;
+    align-content: center;
+    font-size: 1.5em; 
+    text-align: center;
+}
+
+#box2 {
+    background-color: rgb(251, 236, 97);
+    align-content: center;
+    width: auto;
+    height: 531px;
+    text-align: center;
+}
+
+#box3 {
+    background-color: rgb(63, 152, 65);
+    align-content: center;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
