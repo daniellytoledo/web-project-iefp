@@ -3,21 +3,13 @@ body {
     margin: 0;
 }
 
-.title {
-    width: 200px;
-    height: 150px;
-    font-size: 2em; /* px, em, rem */
-    align-content: center;
-    margin: auto;
-}
-
 #box1 {
     background-color: rgb(231, 92, 92);
     width: auto; /* px, %, vw */
     height: 15vh; /* não se pode usar %, o melhor é usar vh pois o tamanho da altura vai se adaptar ao navegador */
     color: white;
     align-content: center;
-    font-size: 1.5em; 
+    font-size: 1.5em; /* px, em, rem */
     text-align: center;
 }
 
